@@ -1,3 +1,52 @@
+I also added multiple choice questions and a notification at the end of the test informing the user about their score.
+
+
+
+![Simulator Screen Recording - iPhone 14 Pro - 2023-08-21 at 16 47 47](https://github.com/scgursel/Quizzler-iOS13/assets/95382610/d9b4cbb2-c9fd-4416-b1ad-94888348d98f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
